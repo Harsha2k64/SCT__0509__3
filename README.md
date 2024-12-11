@@ -1,0 +1,1 @@
+A fun, interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a friend on a 3x3 grid with automatic winner detection for rows, columns, and diagonals. Features vibrant visuals, responsive design, and a reset option. Future upgrades include AI mode, customizable grids, and score tracking.
